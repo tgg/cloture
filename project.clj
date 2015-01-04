@@ -7,4 +7,5 @@
                  [org.clojure/tools.cli "0.3.1"]]
   :main ^:skip-aot cloture.core
   :target-path "target/%s"
+  :deploy-repositories [["releases" :clojars]]
   :profiles {:uberjar {:aot :all}})
