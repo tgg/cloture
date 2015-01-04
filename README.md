@@ -2,6 +2,8 @@
 
 Cloture is a simple tool to inspect jar files.
 
+[![Clojars Project](http://clojars.org/cloture/latest-version.svg)](http://clojars.org/cloture)
+
 ## Installation
 
 Download it from https://clojars.org/cloture.
